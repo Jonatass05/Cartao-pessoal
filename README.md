@@ -1,6 +1,6 @@
 # Cartão Pessoal
 
-Projeto desenvolvido para a disciplina de Desenvolvimento Front-End para Web, do Centro Universitário Braz Cubas.
+Projeto desenvolvido para a disciplina de Desenvolvimento Front-End para Web.
 
 ## Sobre o projeto
 
